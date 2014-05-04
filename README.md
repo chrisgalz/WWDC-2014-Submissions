@@ -23,7 +23,7 @@ Jak Tiano - [Source](https://github.com/Jakintosh/WWDC-2014-Application), [Video
 
 Jeroen van Rijn - Source, [Video](https://www.youtube.com/watch?v=xUt5UCBAoLI), [Twitter](http://twitter.com/@Jeroen0704)
 
-Coulton Vento - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twitter](http://twitter.com/@coultonvento)
+Coulton Vento (Accepted) - [Source](https://github.com/coultonvento/WWDC-2014), Video, [Twitter](http://twitter.com/@coultonvento)
 
 Louis Harboe - Source, Video, [Twitter](http://twitter.com/@spiralstairs) 
 
@@ -31,11 +31,11 @@ Patrick Balestra (Accepted) - [Source](https://github.com/BalestraPatrick/WWDC-2
 
 Isaac Rodríguez - Source, [Video](https://www.youtube.com/watch?v=LQFMa-yRrlk), [Twitter](https://twitter.com/@sideround)
 
-Chris Galzerano - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be), [Twitter](https://twitter.com/@chrisgalz)
+Chris Galzerano (Accepted) - Source, [Video](https://www.youtube.com/watch?v=XImIArqS3ww&feature=youtu.be), [Twitter](https://twitter.com/@chrisgalz)
 
 Jonah Grant - [Source](https://github.com/jonahgrant/wwdc), [Video](https://www.facebook.com/photo.php?v=10203790746388689), [Twitter](https://twitter.com/@jonahgrant)
 
-Conrad Kramer - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
+Conrad Kramer (Accepted) - [Source](https://github.com/conradev/WWDC2014), Video, [Twitter](https://twitter.com/@conradev)
 
 Isaiah Turner (Accepted) - [Source](https://github.com/IsaiahJTurner/IsaiahJTurner), [Video](https://www.facebook.com/photo.php?v=712518992128745), [Twitter](https://twitter.com/@IsaiahJTurner)
 
